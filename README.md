@@ -1,32 +1,43 @@
-<<<<<<< HEAD
-# Iris Flower Classification App
+Iris Flower Classification - OIBSIP Task 1
 
-This project is developed using Python, Streamlit, and Machine Learning.
+📌 Project Overview
 
-## Features
-- Predicts Iris flower species
-- Uses Random Forest Classifier
-- Interactive Streamlit sliders
-- Simple UI
+This project is developed as part of the Oasis Infobyte Data Science Internship.
 
-## Technologies Used
+The application predicts the species of an Iris flower using Machine Learning based on:
+
+- Sepal Length
+- Sepal Width
+- Petal Length
+- Petal Width
+
+🚀 Technologies Used
+
 - Python
-- Pandas
-- Scikit-learn
 - Streamlit
+- Pandas
+- NumPy
+- Scikit-learn
 
-## How to Run
+🤖 Machine Learning Algorithm
 
-pip install -r requirements.txt
+- Random Forest Classifier
+
+✨ Features
+
+- Interactive Streamlit UI
+- Real-time flower prediction
+- Machine Learning based classification
+- User-friendly sliders for input
+
+▶️ How to Run
 
 streamlit run app.py
 
-## Dataset
-Iris Dataset
+📂 Dataset
 
-## Author
-Vinay Goud
-=======
-# OIBSIP
-Data Science internship projects using Python and Machine Learning
->>>>>>> 9395e970732a4660a9aac836f9d839f84a61c3e3
+Iris flower dataset containing measurements of different flower species.
+
+👨‍💻 Author
+
+Vinay Goud Vintapuram

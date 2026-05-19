@@ -33,10 +33,16 @@ The application predicts the species of an Iris flower using Machine Learning ba
 ▶️ How to Run
 
 streamlit run app.py
+or
+python -m streamlit run app.py
 
 📂 Dataset
 
 Iris flower dataset containing measurements of different flower species.
+
+📸 Project Screenshot
+
+![Project Screenshot](project_screenshot.png)
 
 👨‍💻 Author
 
